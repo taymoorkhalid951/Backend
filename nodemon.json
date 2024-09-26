@@ -1,0 +1,8 @@
+{
+    "env":{
+        "MONGO_USER": "taymoorkhalid951",
+        "MONGO_PASSWORD": "Alyaar_7778",
+        "MONGO_DB": "newProject",
+        "jwt_key": "supersecret_dont_share"
+    }
+}
